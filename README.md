@@ -1,1 +1,1 @@
-# hnwi-customer-segmentation
+# LTV-persona-customer-segmentation
